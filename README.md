@@ -18,7 +18,7 @@ To install this project the user will need to have Node.js installed, as well as
 ## Usage
 
 This project can be used to create svg Logos using Node.js. 
-For a video on how to use the application and how the application works please click on the following link: 
+For a video on how to use the application and how the application works please click on the following link: https://drive.google.com/file/d/1So04k4qJW2XXCx6DH5TtspFKr9MYIrwH/view?usp=share_link
 
 
 ## Contribution
